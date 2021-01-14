@@ -1,0 +1,19 @@
+{
+    "name": "com.custom.uikit",
+    "displayName": "UIKit",
+    "description": "This package is UIKit.",
+  "version": "0.0.5",
+  "unity": "2019.4",
+  "license": "MIT",
+  "repository": {
+      "type": "git",
+      "url": "http://gitlab.repos.suv163.com/wuxiaohua/CustomPackage"
+  },
+  "author": "WXH",
+  "keywords": [
+      "UIKit"
+  ],
+  "dependencies": {
+  }
+}
+
